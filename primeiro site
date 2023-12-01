@@ -8,5 +8,11 @@ Modelo Astronomia
 </head>
 <body bgcolor="black">
 Aqui o nosso <font size="12" color="purple"> <b>primeiro</b> </font> texto. <br>
-Segundo texto, <b>negrito</b> e <i>itálico.
+Segundo texto, <b>negrito</b> e <i>itálico.</i> <br> <br>
+<ing src="Kyuubi.psg" height="25%" width="25%"> <br> <br>
+<img src="Gif.gif">
+</body>
+<footer>
+Diciplina de Pensamento Computacional
+</footer>
 
